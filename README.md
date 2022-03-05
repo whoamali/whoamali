@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **js and nodejs frameworks...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/whoamali](https://github.com/whoamali)
+- 👨‍💻 All of my projects are available at [whoamali](https://github.com/whoamali?tab=repositories)
 
 - 💬 Ask me about **js, react, nodejs etc...**
 
