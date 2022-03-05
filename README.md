@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alisoleimani199@gmail.com**
 
-- ⚡ Fun fact **There is BIG money in coding...**
+- ⚡ Fun fact **There is BIG money in coding...:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
