@@ -2,8 +2,6 @@
 <h3 align="center">A passionate front-end developer from Ian</h3>
 
 
-- 🔭 I’m currently working on [i-shan](http://i-shan.ir/)
-
 - 🌱 I’m currently learning **js and nodejs frameworks etc.**
 
 - 👨‍💻 All of my projects are available at [whoamali](https://github.com/whoamali?tab=repositories)
