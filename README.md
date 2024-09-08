@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A passionate front-end developer from Ian</h3>
+<h3 align="center">A passionate Full-stack JS developer from Ian</h3>
 
-
-- 🌱 I’m currently learning **js and nodejs frameworks etc.**
 
 - 👨‍💻 All of my projects are available at [whoamali](https://github.com/whoamali?tab=repositories)
 
